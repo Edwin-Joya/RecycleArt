@@ -1,0 +1,193 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>RecycleArt</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body class="is-preload">
+    <a href="login.php">Ingresa</a> o
+    <a href="abrir.php">Registrate</a>
+    <!-- Header -->
+    <section id="header">
+        <header>
+            <span class="image avatar"><img src="images/logo.png" alt="" /></span>
+            <h1 id="logo"><a href="#">RecycleArt</a></h1>
+            <p>¡Recicla! ¡Somos vida!</p>
+        </header>
+        <nav id="nav">
+            <ul>
+                <li><a href="#one" class="active">Inicio</a></li>
+                <li>
+                    <a href="#two">Acerca de nosotros</a>
+                </li>
+                <li>
+                    <a href="#three">Misión</a>
+                </li>
+                <li>
+                    <a href="#four">Visión</a>
+                    <li>
+                        <a href="#five">Tutoriales  </a>
+                    </li>
+                </li>
+            </ul>
+        </nav>
+        <footer>
+            <!--
+            <ul class="icons">
+                <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+            </ul>
+            -->
+        </footer>
+    </section>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+
+            <!-- One -->
+            <section id="one">
+                <div class="image main" data-position="center">
+                    <img src="images/banner1.png" alt="" />
+                </div>
+                <div class="container">
+                    <header class="major">
+                        <h2>¿Qué es el reciclaje?</h2>
+                        <p><br /> Por Joya; <a href="https://www.youtube.com/channel/UC-vwkcfvOc-45h7YNhK64cQ">Mi canal</a>.</p>
+                    </header>
+                    <p>Vivimos en una sociedad consumista y el ser humano actual satisface sus necesidades adquiriendo los productos que necesita, ya sean alimentos, ropa o cualquier tipo de objeto material. Los productos que compramos normalmente vienen
+                        envasados, empaquetados o embolsados, por lo que además del propio producto nos llevamos plástico, papel, cartón y otros materiales de embalaje que no tienen mayor utilidad y simplemente los desechamos. Con el paso del tiempo los
+                        productos también tienen que ser reemplazados, bien porque su vida útil ha llegado a su fin o bien porque se han deteriorado, estropeado o simplemente no los necesitamos más. Con todo lo anterior se genera una gran cantidad de
+                        "basura", residuos de toda clase, que si se liberan al medio ambiente producen un auténtico problema de contaminación y afectan negativamente a los ecosistemas.</p>
+                </div>
+            </section>
+
+            <!-- Two -->
+            <section id="two">
+
+                <div class="container">
+                    <header class="major">
+                        <h2>Acerca de nosotros</h2>
+                        <p><br /> Por Joya; <a href="https://www.youtube.com/channel/UC-vwkcfvOc-45h7YNhK64cQ">Mi canal</a>.</p>
+                    </header>
+                    <p>Somos...la mera verga pero no podemos ni mierda</p>
+                </div>
+            </section>
+            <!-- Three -->
+            <section id="three">
+
+                <div class="container">
+                    <header class="major">
+                        <h2>Misión</h2>
+                        <p><br /> Por Joya; <a href="https://www.youtube.com/channel/UC-vwkcfvOc-45h7YNhK64cQ">Mi canal</a>.</p>
+                        <p>Somos un equipo con capacidad de creación de software, contamos con los conocimientos necesarios para elaborar los trabajos de una forma correcta mediante con todas las metodologías del manifiesto ágil.</p>
+                </div>
+            </section>
+            <section id="four">
+
+                <div class="container">
+                    <header class="major">
+                        <h2>Visión</h2>
+                        <p><br /> Por Joya; <a href="https://www.youtube.com/channel/UC-vwkcfvOc-45h7YNhK64cQ">Mi canal</a>.</p>
+                    </header>
+                    <p>
+                        Ser un equipo que cuente con los conocimientos necesarios a la hora de desarrollar software.
+                    </p>
+                </div>
+            </section>
+
+
+            <!-- five-->
+            <section id="five">
+                <div class="container">
+                    <h3>Tutoriales</h3>
+
+                    <div class="features">
+                        <article>
+                            <a href="#" class="image"> <iframe width="400" height="250" src="https://www.youtube.com/embed/5q2HSdgO7CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </a>
+                            <div class="inner">
+                                <h4>Beneficios del reciclaje</h4>
+                                <p>Hay muchisimos beneficios al reciclar tanto para nuestra comunidad como para el planeta tierra.</p>
+                            </div>
+                        </article>
+                        <article>
+                            <a href="#" class="image"><iframe width="400" height="250" src="https://www.youtube.com/embed/YiHTNfKJwAw" frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+                            <div class="inner">
+                                <h4>¿Como reciclar?</h4>
+                                <p>Aprenderemos a reciclar.</p>
+                            </div>
+                        </article>
+                        <article>
+                            <a href="#" class="image"><iframe width="400" height="250" src="https://www.youtube.com/embed/9MlKHAhuXlo" frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></a>
+                            <div class="inner">
+                                <h4>40 ideas de reciclaje</h4>
+                                <p>Tenemos mas de 30 magnificas ideas para reciclar.</p>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Four -->
+            <!--
+							<section id="four">
+								<div class="container">
+									<h3>Contact Me</h3>
+									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
+									<form method="post" action="#">
+										<div class="row gtr-uniform">
+											<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+											<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+											<div class="col-12"><input type="text" name="subject" id="subject" placeholder="Subject" /></div>
+											<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="6"></textarea></div>
+											<div class="col-12">
+												<ul class="actions">
+													<li><input type="submit" class="primary" value="Send Message" /></li>
+													<li><input type="reset" value="Reset Form" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+							</section>
+-->
+
+        </div>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <ul class="copyright">
+                    <li>&copy; New Tech.</li>
+                    <li>Modificaciones: <a href="https://www.youtube.com/channel/UC-vwkcfvOc-45h7YNhK64cQ">Joya</a></li>
+                </ul>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
