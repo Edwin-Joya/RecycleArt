@@ -16,7 +16,7 @@
     <section id="header">
         <header>
             <span class="image avatar"><img src="images/logo.png" alt="" /></span>
-            <h1 id="logo"><a href="#">RecycleArt</a></h1>
+            <h1 id="logo"><a href="#">Reused Plastic</a></h1>
             <p>¡Recicla! ¡Somos vida!</p>
         </header>
         <nav id="nav">
@@ -80,7 +80,7 @@
                         <h2>Acerca de nosotros</h2>
                         <p><br /> Por Joya; <a href="https://www.youtube.com/channel/UC-vwkcfvOc-45h7YNhK64cQ">Mi canal</a>.</p>
                     </header>
-                    <p>Somos...la mera verga pero no podemos ni mierda</p>
+                    <p></p>
                 </div>
             </section>
             <!-- Three -->
