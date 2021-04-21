@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <title></title>
@@ -10,12 +10,16 @@
 
 <body>
     <form action="login.php" method="post">
-        <h2>ingresa tus datos</h2>
-        <div >
-            <input type="text" placeholder="nombre">
+        <h2>ingresar</h2>
+        
+        <div>
+            <input type="text" placeholder="correo" >
         </div>
         <div>
-            <input type="text" placeholder="correo">
+            <input type="text" placeholder="contraseña" >
+        </div>
+        <div>
+            <input type="submit" placeholder="enviar" >
         </div>
 
     </form>
