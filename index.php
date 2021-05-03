@@ -31,9 +31,12 @@
                 <li>
                     <a href="#four">Visión</a>
                     <li>
-                        <a href="#five">Tutoriales  </a>
+                        <a href="#five">Tutoriales</a>
                     </li>
                 </li>
+                <li>
+                        <a href="#six">Foro</a>
+                    </li>
             </ul>
         </nav>
         <footer>
